@@ -1,2 +1,4 @@
 # generateGetter-Setter
-Scriptzinho básico pra gerar getter setter de n propriedades
+Scriptzinho básico pra gerar getters e setters de n propriedades de classe;
+
+
